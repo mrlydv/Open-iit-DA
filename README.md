@@ -1,5 +1,5 @@
 # Open_IIT-DA
-## In this project, we are given the geodemographic and other relevant data
+In this project, we are given the geodemographic and other relevant data
 of an Auto Insurance Company that may impact its Customer Lifetime
 Value. We have to predict the Customer Lifetime Value for this company.
 Customer Lifetime Value is the total revenue the client will derive in its
